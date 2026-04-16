@@ -1,0 +1,245 @@
+{
+  "created_at": "2026-04-16T19:26:52.273979",
+  "last_updated": "2026-04-16T19:37:01.633252",
+  "behavioral_patterns": {
+    "hourly": {
+      "peak_hours": [
+        3,
+        6,
+        23
+      ],
+      "peak_hour_intensity": 2,
+      "activity_distribution": {
+        "2": 1,
+        "3": 2,
+        "5": 1,
+        "6": 2,
+        "15": 1,
+        "16": 1,
+        "23": 2
+      },
+      "most_active_hour": 3,
+      "least_active_hour": 2
+    },
+    "weekly": {
+      "consistency_score": 0.293,
+      "drop_off_weeks": [],
+      "trend": "insufficient_data",
+      "trend_strength": 0,
+      "most_productive_day": "Monday",
+      "least_productive_day": "Sunday",
+      "weekly_averages": {
+        "15": 4,
+        "16": 6
+      },
+      "daily_averages": {
+        "Monday": 3,
+        "Saturday": 3,
+        "Sunday": 1,
+        "Thursday": 2,
+        "Wednesday": 1
+      }
+    },
+    "burst_lull": {
+      "bursts": [
+        {
+          "time": "2026-04-11T06:00:00",
+          "activity_count": 1
+        },
+        {
+          "time": "2026-04-11T07:00:00",
+          "activity_count": 0
+        },
+        {
+          "time": "2026-04-11T08:00:00",
+          "activity_count": 0
+        },
+        {
+          "time": "2026-04-11T09:00:00",
+          "activity_count": 0
+        },
+        {
+          "time": "2026-04-11T10:00:00",
+          "activity_count": 0
+        },
+        {
+          "time": "2026-04-11T11:00:00",
+          "activity_count": 0
+        },
+        {
+          "time": "2026-04-11T12:00:00",
+          "activity_count": 0
+        },
+        {
+          "time": "2026-04-11T13:00:00",
+          "activity_count": 0
+        },
+        {
+          "time": "2026-04-11T14:00:00",
+          "activity_count": 0
+        },
+        {
+          "time": "2026-04-11T15:00:00",
+          "activity_count": 1
+        }
+      ],
+      "lulls": [
+        {
+          "start": "2026-04-11T07:00:00",
+          "end": "2026-04-11T14:00:00",
+          "duration_hours": 8
+        },
+        {
+          "start": "2026-04-11T16:00:00",
+          "end": "2026-04-11T22:00:00",
+          "duration_hours": 7
+        },
+        {
+          "start": "2026-04-12T00:00:00",
+          "end": "2026-04-12T15:00:00",
+          "duration_hours": 16
+        },
+        {
+          "start": "2026-04-12T17:00:00",
+          "end": "2026-04-13T01:00:00",
+          "duration_hours": 9
+        },
+        {
+          "start": "2026-04-13T04:00:00",
+          "end": "2026-04-13T22:00:00",
+          "duration_hours": 19
+        }
+      ],
+      "avg_hourly_activity": 0.08264462809917356,
+      "peak_hourly_activity": 1
+    },
+    "last_updated": "2026-04-16T19:26:52.446679"
+  },
+  "memory_clusters": [
+    {
+      "id": 0,
+      "name": "learning:education",
+      "event_count": 2,
+      "first_seen": "2026-04-11T06:26:52.356405",
+      "last_seen": "2026-04-16T06:26:52.283631",
+      "frequency": 0.3333333333333333,
+      "events": [
+        {
+          "timestamp": "2026-04-11T06:26:52.356405",
+          "content": "Study AI patterns",
+          "duration": 90
+        },
+        {
+          "timestamp": "2026-04-16T06:26:52.283631",
+          "content": "Study AI patterns",
+          "duration": 90
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "task:writing",
+      "event_count": 3,
+      "first_seen": "2026-04-11T15:26:52.329924",
+      "last_seen": "2026-04-16T03:26:52.339297",
+      "frequency": 0.5,
+      "events": [
+        {
+          "timestamp": "2026-04-11T15:26:52.329924",
+          "content": "Write documentation",
+          "duration": 60
+        },
+        {
+          "timestamp": "2026-04-13T03:26:52.311925",
+          "content": "Write documentation",
+          "duration": 60
+        },
+        {
+          "timestamp": "2026-04-16T03:26:52.339297",
+          "content": "Write documentation",
+          "duration": 60
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "coding:work",
+      "event_count": 4,
+      "first_seen": "2026-04-11T23:26:52.363217",
+      "last_seen": "2026-04-15T05:26:52.301832",
+      "frequency": 0.8,
+      "events": [
+        {
+          "timestamp": "2026-04-11T23:26:52.363217",
+          "content": "Working on ECHO project",
+          "duration": 120
+        },
+        {
+          "timestamp": "2026-04-12T16:26:52.274943",
+          "content": "Working on ECHO project",
+          "duration": 120
+        },
+        {
+          "timestamp": "2026-04-13T23:26:52.291569",
+          "content": "Working on ECHO project",
+          "duration": 120
+        },
+        {
+          "timestamp": "2026-04-15T05:26:52.301832",
+          "content": "Working on ECHO project",
+          "duration": 120
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "meeting:work",
+      "event_count": 1,
+      "first_seen": "2026-04-13T02:26:52.348787",
+      "last_seen": "2026-04-13T02:26:52.348787",
+      "frequency": 0.25,
+      "events": [
+        {
+          "timestamp": "2026-04-13T02:26:52.348787",
+          "content": "Team sync",
+          "duration": 30
+        }
+      ]
+    }
+  ],
+  "evolution_tracking": [],
+  "preferences": {
+    "peak_productivity_hours": [
+      3,
+      6,
+      23
+    ],
+    "best_day_for_focus": "Monday",
+    "preferred_activities": {
+      "coding": 4,
+      "task": 3,
+      "learning": 2,
+      "meeting": 1
+    }
+  },
+  "insights_generated": [
+    {
+      "timestamp": "2026-04-16T19:26:52.463641",
+      "reflection": "Good evening! \ud83c\udfaf You're most active between 3:00, 6:00. \ud83c\udfb2 Your daily activity varies quite a bit. \u26a1 You have intense activity bursts (up to 1 events/hour). \ud83c\udf1f Monday is your most productive day.",
+      "related_insights": [
+        "peak_hours",
+        "productivity_day",
+        "inconsistency"
+      ]
+    },
+    {
+      "timestamp": "2026-04-16T19:37:01.633252",
+      "reflection": "Good evening! \ud83c\udfaf You're most active between 3:00, 6:00. \ud83c\udfb2 Your daily activity varies quite a bit. \u26a1 You have intense activity bursts (up to 1 events/hour). \ud83c\udf1f Monday is your most productive day.",
+      "related_insights": [
+        "peak_hours",
+        "productivity_day",
+        "inconsistency"
+      ]
+    }
+  ]
+}
