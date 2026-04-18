@@ -1,6 +1,6 @@
 {
   "created_at": "2026-04-16T19:26:52.273979",
-  "last_updated": "2026-04-16T19:37:01.633252",
+  "last_updated": "2026-04-18T14:03:29.162478",
   "behavioral_patterns": {
     "hourly": {
       "peak_hours": [
@@ -16,6 +16,8 @@
         "6": 2,
         "15": 1,
         "16": 1,
+        "19": 1,
+        "20": 1,
         "23": 2
       },
       "most_active_hour": 3,
@@ -27,16 +29,17 @@
       "trend": "insufficient_data",
       "trend_strength": 0,
       "most_productive_day": "Monday",
-      "least_productive_day": "Sunday",
+      "least_productive_day": "Friday",
       "weekly_averages": {
         "15": 4,
-        "16": 6
+        "16": 8
       },
       "daily_averages": {
+        "Friday": 1,
         "Monday": 3,
         "Saturday": 3,
         "Sunday": 1,
-        "Thursday": 2,
+        "Thursday": 3,
         "Wednesday": 1
       }
     },
@@ -110,10 +113,10 @@
           "duration_hours": 19
         }
       ],
-      "avg_hourly_activity": 0.08264462809917356,
+      "avg_hourly_activity": 0.07547169811320754,
       "peak_hourly_activity": 1
     },
-    "last_updated": "2026-04-16T19:26:52.446679"
+    "last_updated": "2026-04-18T14:03:29.034327"
   },
   "memory_clusters": [
     {
@@ -122,7 +125,7 @@
       "event_count": 2,
       "first_seen": "2026-04-11T06:26:52.356405",
       "last_seen": "2026-04-16T06:26:52.283631",
-      "frequency": 0.3333333333333333,
+      "frequency": 0.25,
       "events": [
         {
           "timestamp": "2026-04-11T06:26:52.356405",
@@ -142,7 +145,7 @@
       "event_count": 3,
       "first_seen": "2026-04-11T15:26:52.329924",
       "last_seen": "2026-04-16T03:26:52.339297",
-      "frequency": 0.5,
+      "frequency": 0.42857142857142855,
       "events": [
         {
           "timestamp": "2026-04-11T15:26:52.329924",
@@ -167,7 +170,7 @@
       "event_count": 4,
       "first_seen": "2026-04-11T23:26:52.363217",
       "last_seen": "2026-04-15T05:26:52.301832",
-      "frequency": 0.8,
+      "frequency": 0.5714285714285714,
       "events": [
         {
           "timestamp": "2026-04-11T23:26:52.363217",
@@ -197,11 +200,41 @@
       "event_count": 1,
       "first_seen": "2026-04-13T02:26:52.348787",
       "last_seen": "2026-04-13T02:26:52.348787",
-      "frequency": 0.25,
+      "frequency": 0.16666666666666666,
       "events": [
         {
           "timestamp": "2026-04-13T02:26:52.348787",
           "content": "Team sync",
+          "duration": 30
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "test:test",
+      "event_count": 1,
+      "first_seen": "2026-04-16T19:34:18.354987",
+      "last_seen": "2026-04-16T19:34:18.354987",
+      "frequency": 0.5,
+      "events": [
+        {
+          "timestamp": "2026-04-16T19:34:18.354987",
+          "content": "Test entry",
+          "duration": 5
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "learning:learning",
+      "event_count": 1,
+      "first_seen": "2026-04-17T20:42:48.994559",
+      "last_seen": "2026-04-17T20:42:48.994559",
+      "frequency": 1.0,
+      "events": [
+        {
+          "timestamp": "2026-04-17T20:42:48.994559",
+          "content": "Learned how AI/ML changes the working field to the next level.",
           "duration": 30
         }
       ]
@@ -217,9 +250,10 @@
     "best_day_for_focus": "Monday",
     "preferred_activities": {
       "coding": 4,
+      "learning": 3,
       "task": 3,
-      "learning": 2,
-      "meeting": 1
+      "meeting": 1,
+      "test": 1
     }
   },
   "insights_generated": [

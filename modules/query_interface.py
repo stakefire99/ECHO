@@ -8,6 +8,7 @@ import random
 from datetime import datetime, timedelta
 from typing import Dict, List, Optional
 import pandas as pd
+from modules.personalities import PersonalityManager
 
 class QueryInterface:
     def __init__(self, event_logger, memory_engine, ai_reflection):
@@ -15,6 +16,10 @@ class QueryInterface:
         self.event_logger = event_logger
         self.memory_engine = memory_engine
         self.ai_reflection = ai_reflection
+        self.chat_history = []  # Initialize chat history
+        
+        # Initialize personality manager
+        self.personality_manager = PersonalityManager()
         
         # Sarcastic opening lines based on context
         self.sarcastic_openers = {
@@ -84,6 +89,33 @@ class QueryInterface:
         
         else:
             return self._handle_general_query(query_lower, activity_level)
+    
+    def set_personality(self, personality_id: str) -> str:
+        """Change ECHO's personality"""
+        if self.personality_manager.set_personality(personality_id):
+            return f"🎭 ECHO is now in **{self.personality_manager.personalities[personality_id]['name']}** mode.\n\n{self.personality_manager.get_greeting()}"
+        return "Personality not found. Options: mentor, friend, well_wisher, sarcastic"
+    
+    def set_echo_name(self, name: str) -> str:
+        """Let user rename ECHO"""
+        return self.personality_manager.set_name(name)
+    
+    def get_conversation_log(self) -> str:
+        """Get conversation history"""
+        return self.personality_manager.get_conversation_log(self.chat_history)
+    
+    def answer_query_with_personality(self, query: str) -> str:
+        """Answer with personality applied"""
+        # Get standard response
+        base_response = self.answer_query(query)
+        
+        # Transform based on personality
+        transformed = self.personality_manager.transform_response(base_response, query)
+        
+        # Store in chat history
+        self.chat_history.append(("echo", transformed))
+        
+        return transformed
     
     def _detect_activity_mood(self) -> str:
         """Detect if user has been active, lazy, or inconsistent"""
@@ -249,7 +281,7 @@ class QueryInterface:
             response += f"Your best day is {weekly['most_productive_day']}. "
             response += random.choice([
                 f"Mark it on your calendar. Actually, just remember it. I'm not your assistant.",
-                f"Too bad the other {['Monday','Tuesday','Wednesday','Thursday','Friday','Saturday','Sunday']}s exist.",
+                f"Too bad the other days exist.",
                 f"Try to replicate that energy. Or don't. I'm just a memory system, not a life coach."
             ])
         
@@ -340,7 +372,7 @@ class QueryInterface:
             return response
         else:
             return random.choice([
-                f"I'm not sure what '{query}' means. And I remember everything. So that's a you problem.",
+                f"I'm not sure what you're asking. And I remember everything. So that's a you problem.",
                 "Interesting question. Too bad I don't have an interesting answer. Log more stuff and ask again.",
                 "I'd help, but my database of your life is currently sparse. Hint hint. Log something.",
                 "That's beyond my capabilities. Or maybe it isn't. Guess we'll never know if you don't ask better questions."
