@@ -233,6 +233,546 @@
       "name": "\ud83c\udf1f Comeback Kid",
       "description": "50% increase in activity after a low week",
       "earned_at": "2026-04-18T14:02:12.760086"
+    },
+    {
+      "id": "focus_god",
+      "name": "\ud83c\udfaf Focus God",
+      "description": "4+ hours of focused work in one day",
+      "earned_at": "2026-04-18T14:21:10.304755"
+    },
+    {
+      "id": "diversity_master",
+      "name": "\ud83c\udfa8 Diversity Master",
+      "description": "Logged 5+ different activity types",
+      "earned_at": "2026-04-18T14:21:10.313739"
+    },
+    {
+      "id": "comeback_kid",
+      "name": "\ud83c\udf1f Comeback Kid",
+      "description": "50% increase in activity after a low week",
+      "earned_at": "2026-04-18T14:21:10.313739"
+    },
+    {
+      "id": "focus_god",
+      "name": "\ud83c\udfaf Focus God",
+      "description": "4+ hours of focused work in one day",
+      "earned_at": "2026-04-18T15:19:08.244862"
+    },
+    {
+      "id": "diversity_master",
+      "name": "\ud83c\udfa8 Diversity Master",
+      "description": "Logged 5+ different activity types",
+      "earned_at": "2026-04-18T15:19:08.278524"
+    },
+    {
+      "id": "comeback_kid",
+      "name": "\ud83c\udf1f Comeback Kid",
+      "description": "50% increase in activity after a low week",
+      "earned_at": "2026-04-18T15:19:08.303105"
+    },
+    {
+      "id": "focus_god",
+      "name": "\ud83c\udfaf Focus God",
+      "description": "4+ hours of focused work in one day",
+      "earned_at": "2026-04-19T15:35:39.818078"
+    },
+    {
+      "id": "diversity_master",
+      "name": "\ud83c\udfa8 Diversity Master",
+      "description": "Logged 5+ different activity types",
+      "earned_at": "2026-04-19T15:35:39.839193"
+    },
+    {
+      "id": "comeback_kid",
+      "name": "\ud83c\udf1f Comeback Kid",
+      "description": "50% increase in activity after a low week",
+      "earned_at": "2026-04-19T15:35:39.863651"
+    },
+    {
+      "id": "focus_god",
+      "name": "\ud83c\udfaf Focus God",
+      "description": "4+ hours of focused work in one day",
+      "earned_at": "2026-04-19T16:01:31.106719"
+    },
+    {
+      "id": "diversity_master",
+      "name": "\ud83c\udfa8 Diversity Master",
+      "description": "Logged 5+ different activity types",
+      "earned_at": "2026-04-19T16:01:31.195722"
+    },
+    {
+      "id": "comeback_kid",
+      "name": "\ud83c\udf1f Comeback Kid",
+      "description": "50% increase in activity after a low week",
+      "earned_at": "2026-04-19T16:01:31.218256"
+    },
+    {
+      "id": "focus_god",
+      "name": "\ud83c\udfaf Focus God",
+      "description": "4+ hours of focused work in one day",
+      "earned_at": "2026-04-19T16:12:29.755029"
+    },
+    {
+      "id": "diversity_master",
+      "name": "\ud83c\udfa8 Diversity Master",
+      "description": "Logged 5+ different activity types",
+      "earned_at": "2026-04-19T16:12:29.818290"
+    },
+    {
+      "id": "comeback_kid",
+      "name": "\ud83c\udf1f Comeback Kid",
+      "description": "50% increase in activity after a low week",
+      "earned_at": "2026-04-19T16:12:29.834115"
+    },
+    {
+      "id": "focus_god",
+      "name": "\ud83c\udfaf Focus God",
+      "description": "4+ hours of focused work in one day",
+      "earned_at": "2026-04-19T16:57:32.806592"
+    },
+    {
+      "id": "diversity_master",
+      "name": "\ud83c\udfa8 Diversity Master",
+      "description": "Logged 5+ different activity types",
+      "earned_at": "2026-04-19T16:57:32.806592"
+    },
+    {
+      "id": "comeback_kid",
+      "name": "\ud83c\udf1f Comeback Kid",
+      "description": "50% increase in activity after a low week",
+      "earned_at": "2026-04-19T16:57:32.824369"
+    },
+    {
+      "id": "focus_god",
+      "name": "\ud83c\udfaf Focus God",
+      "description": "4+ hours of focused work in one day",
+      "earned_at": "2026-04-19T17:11:32.434991"
+    },
+    {
+      "id": "diversity_master",
+      "name": "\ud83c\udfa8 Diversity Master",
+      "description": "Logged 5+ different activity types",
+      "earned_at": "2026-04-19T17:11:32.465617"
+    },
+    {
+      "id": "comeback_kid",
+      "name": "\ud83c\udf1f Comeback Kid",
+      "description": "50% increase in activity after a low week",
+      "earned_at": "2026-04-19T17:11:32.476472"
+    },
+    {
+      "id": "focus_god",
+      "name": "\ud83c\udfaf Focus God",
+      "description": "4+ hours of focused work in one day",
+      "earned_at": "2026-04-19T17:16:16.372185"
+    },
+    {
+      "id": "diversity_master",
+      "name": "\ud83c\udfa8 Diversity Master",
+      "description": "Logged 5+ different activity types",
+      "earned_at": "2026-04-19T17:16:16.461354"
+    },
+    {
+      "id": "comeback_kid",
+      "name": "\ud83c\udf1f Comeback Kid",
+      "description": "50% increase in activity after a low week",
+      "earned_at": "2026-04-19T17:16:16.477419"
+    },
+    {
+      "id": "focus_god",
+      "name": "\ud83c\udfaf Focus God",
+      "description": "4+ hours of focused work in one day",
+      "earned_at": "2026-04-19T18:00:12.367536"
+    },
+    {
+      "id": "diversity_master",
+      "name": "\ud83c\udfa8 Diversity Master",
+      "description": "Logged 5+ different activity types",
+      "earned_at": "2026-04-19T18:00:12.375693"
+    },
+    {
+      "id": "comeback_kid",
+      "name": "\ud83c\udf1f Comeback Kid",
+      "description": "50% increase in activity after a low week",
+      "earned_at": "2026-04-19T18:00:12.385911"
+    },
+    {
+      "id": "focus_god",
+      "name": "\ud83c\udfaf Focus God",
+      "description": "4+ hours of focused work in one day",
+      "earned_at": "2026-04-19T18:05:46.399743"
+    },
+    {
+      "id": "diversity_master",
+      "name": "\ud83c\udfa8 Diversity Master",
+      "description": "Logged 5+ different activity types",
+      "earned_at": "2026-04-19T18:05:46.415892"
+    },
+    {
+      "id": "comeback_kid",
+      "name": "\ud83c\udf1f Comeback Kid",
+      "description": "50% increase in activity after a low week",
+      "earned_at": "2026-04-19T18:05:46.415892"
+    },
+    {
+      "id": "focus_god",
+      "name": "\ud83c\udfaf Focus God",
+      "description": "4+ hours of focused work in one day",
+      "earned_at": "2026-04-19T18:18:41.949772"
+    },
+    {
+      "id": "diversity_master",
+      "name": "\ud83c\udfa8 Diversity Master",
+      "description": "Logged 5+ different activity types",
+      "earned_at": "2026-04-19T18:18:42.046721"
+    },
+    {
+      "id": "comeback_kid",
+      "name": "\ud83c\udf1f Comeback Kid",
+      "description": "50% increase in activity after a low week",
+      "earned_at": "2026-04-19T18:18:42.072545"
+    },
+    {
+      "id": "focus_god",
+      "name": "\ud83c\udfaf Focus God",
+      "description": "4+ hours of focused work in one day",
+      "earned_at": "2026-04-19T18:18:52.540214"
+    },
+    {
+      "id": "diversity_master",
+      "name": "\ud83c\udfa8 Diversity Master",
+      "description": "Logged 5+ different activity types",
+      "earned_at": "2026-04-19T18:18:52.579359"
+    },
+    {
+      "id": "comeback_kid",
+      "name": "\ud83c\udf1f Comeback Kid",
+      "description": "50% increase in activity after a low week",
+      "earned_at": "2026-04-19T18:18:52.588690"
+    },
+    {
+      "id": "focus_god",
+      "name": "\ud83c\udfaf Focus God",
+      "description": "4+ hours of focused work in one day",
+      "earned_at": "2026-04-19T18:18:59.836184"
+    },
+    {
+      "id": "diversity_master",
+      "name": "\ud83c\udfa8 Diversity Master",
+      "description": "Logged 5+ different activity types",
+      "earned_at": "2026-04-19T18:18:59.848642"
+    },
+    {
+      "id": "comeback_kid",
+      "name": "\ud83c\udf1f Comeback Kid",
+      "description": "50% increase in activity after a low week",
+      "earned_at": "2026-04-19T18:18:59.877845"
+    },
+    {
+      "id": "focus_god",
+      "name": "\ud83c\udfaf Focus God",
+      "description": "4+ hours of focused work in one day",
+      "earned_at": "2026-04-19T18:27:49.042729"
+    },
+    {
+      "id": "diversity_master",
+      "name": "\ud83c\udfa8 Diversity Master",
+      "description": "Logged 5+ different activity types",
+      "earned_at": "2026-04-19T18:27:49.100480"
+    },
+    {
+      "id": "comeback_kid",
+      "name": "\ud83c\udf1f Comeback Kid",
+      "description": "50% increase in activity after a low week",
+      "earned_at": "2026-04-19T18:27:49.112031"
+    },
+    {
+      "id": "focus_god",
+      "name": "\ud83c\udfaf Focus God",
+      "description": "4+ hours of focused work in one day",
+      "earned_at": "2026-04-19T18:28:03.838985"
+    },
+    {
+      "id": "diversity_master",
+      "name": "\ud83c\udfa8 Diversity Master",
+      "description": "Logged 5+ different activity types",
+      "earned_at": "2026-04-19T18:28:03.848809"
+    },
+    {
+      "id": "comeback_kid",
+      "name": "\ud83c\udf1f Comeback Kid",
+      "description": "50% increase in activity after a low week",
+      "earned_at": "2026-04-19T18:28:03.851227"
+    },
+    {
+      "id": "focus_god",
+      "name": "\ud83c\udfaf Focus God",
+      "description": "4+ hours of focused work in one day",
+      "earned_at": "2026-04-19T18:36:35.257667"
+    },
+    {
+      "id": "diversity_master",
+      "name": "\ud83c\udfa8 Diversity Master",
+      "description": "Logged 5+ different activity types",
+      "earned_at": "2026-04-19T18:36:35.330277"
+    },
+    {
+      "id": "comeback_kid",
+      "name": "\ud83c\udf1f Comeback Kid",
+      "description": "50% increase in activity after a low week",
+      "earned_at": "2026-04-19T18:36:35.343167"
+    },
+    {
+      "id": "focus_god",
+      "name": "\ud83c\udfaf Focus God",
+      "description": "4+ hours of focused work in one day",
+      "earned_at": "2026-04-19T18:36:48.757769"
+    },
+    {
+      "id": "diversity_master",
+      "name": "\ud83c\udfa8 Diversity Master",
+      "description": "Logged 5+ different activity types",
+      "earned_at": "2026-04-19T18:36:48.764244"
+    },
+    {
+      "id": "comeback_kid",
+      "name": "\ud83c\udf1f Comeback Kid",
+      "description": "50% increase in activity after a low week",
+      "earned_at": "2026-04-19T18:36:48.773128"
+    },
+    {
+      "id": "focus_god",
+      "name": "\ud83c\udfaf Focus God",
+      "description": "4+ hours of focused work in one day",
+      "earned_at": "2026-04-19T18:42:22.167302"
+    },
+    {
+      "id": "diversity_master",
+      "name": "\ud83c\udfa8 Diversity Master",
+      "description": "Logged 5+ different activity types",
+      "earned_at": "2026-04-19T18:42:22.216386"
+    },
+    {
+      "id": "comeback_kid",
+      "name": "\ud83c\udf1f Comeback Kid",
+      "description": "50% increase in activity after a low week",
+      "earned_at": "2026-04-19T18:42:22.228010"
+    },
+    {
+      "id": "focus_god",
+      "name": "\ud83c\udfaf Focus God",
+      "description": "4+ hours of focused work in one day",
+      "earned_at": "2026-04-19T18:49:52.857659"
+    },
+    {
+      "id": "diversity_master",
+      "name": "\ud83c\udfa8 Diversity Master",
+      "description": "Logged 5+ different activity types",
+      "earned_at": "2026-04-19T18:49:52.948450"
+    },
+    {
+      "id": "comeback_kid",
+      "name": "\ud83c\udf1f Comeback Kid",
+      "description": "50% increase in activity after a low week",
+      "earned_at": "2026-04-19T18:49:52.959193"
+    },
+    {
+      "id": "focus_god",
+      "name": "\ud83c\udfaf Focus God",
+      "description": "4+ hours of focused work in one day",
+      "earned_at": "2026-04-19T19:03:52.425671"
+    },
+    {
+      "id": "diversity_master",
+      "name": "\ud83c\udfa8 Diversity Master",
+      "description": "Logged 5+ different activity types",
+      "earned_at": "2026-04-19T19:03:52.468910"
+    },
+    {
+      "id": "comeback_kid",
+      "name": "\ud83c\udf1f Comeback Kid",
+      "description": "50% increase in activity after a low week",
+      "earned_at": "2026-04-19T19:03:52.484450"
+    },
+    {
+      "id": "focus_god",
+      "name": "\ud83c\udfaf Focus God",
+      "description": "4+ hours of focused work in one day",
+      "earned_at": "2026-04-19T19:09:12.965467"
+    },
+    {
+      "id": "diversity_master",
+      "name": "\ud83c\udfa8 Diversity Master",
+      "description": "Logged 5+ different activity types",
+      "earned_at": "2026-04-19T19:09:13.014467"
+    },
+    {
+      "id": "comeback_kid",
+      "name": "\ud83c\udf1f Comeback Kid",
+      "description": "50% increase in activity after a low week",
+      "earned_at": "2026-04-19T19:09:13.030773"
+    },
+    {
+      "id": "focus_god",
+      "name": "\ud83c\udfaf Focus God",
+      "description": "4+ hours of focused work in one day",
+      "earned_at": "2026-04-19T19:17:46.350345"
+    },
+    {
+      "id": "diversity_master",
+      "name": "\ud83c\udfa8 Diversity Master",
+      "description": "Logged 5+ different activity types",
+      "earned_at": "2026-04-19T19:17:46.394692"
+    },
+    {
+      "id": "comeback_kid",
+      "name": "\ud83c\udf1f Comeback Kid",
+      "description": "50% increase in activity after a low week",
+      "earned_at": "2026-04-19T19:17:46.403147"
+    },
+    {
+      "id": "focus_god",
+      "name": "\ud83c\udfaf Focus God",
+      "description": "4+ hours of focused work in one day",
+      "earned_at": "2026-04-19T19:24:13.162085"
+    },
+    {
+      "id": "diversity_master",
+      "name": "\ud83c\udfa8 Diversity Master",
+      "description": "Logged 5+ different activity types",
+      "earned_at": "2026-04-19T19:24:13.210782"
+    },
+    {
+      "id": "comeback_kid",
+      "name": "\ud83c\udf1f Comeback Kid",
+      "description": "50% increase in activity after a low week",
+      "earned_at": "2026-04-19T19:24:13.229555"
+    },
+    {
+      "id": "focus_god",
+      "name": "\ud83c\udfaf Focus God",
+      "description": "4+ hours of focused work in one day",
+      "earned_at": "2026-04-19T19:29:36.718588"
+    },
+    {
+      "id": "diversity_master",
+      "name": "\ud83c\udfa8 Diversity Master",
+      "description": "Logged 5+ different activity types",
+      "earned_at": "2026-04-19T19:29:36.772930"
+    },
+    {
+      "id": "comeback_kid",
+      "name": "\ud83c\udf1f Comeback Kid",
+      "description": "50% increase in activity after a low week",
+      "earned_at": "2026-04-19T19:29:36.785131"
+    },
+    {
+      "id": "focus_god",
+      "name": "\ud83c\udfaf Focus God",
+      "description": "4+ hours of focused work in one day",
+      "earned_at": "2026-04-19T19:36:30.092624"
+    },
+    {
+      "id": "diversity_master",
+      "name": "\ud83c\udfa8 Diversity Master",
+      "description": "Logged 5+ different activity types",
+      "earned_at": "2026-04-19T19:36:30.141334"
+    },
+    {
+      "id": "comeback_kid",
+      "name": "\ud83c\udf1f Comeback Kid",
+      "description": "50% increase in activity after a low week",
+      "earned_at": "2026-04-19T19:36:30.163609"
+    },
+    {
+      "id": "focus_god",
+      "name": "\ud83c\udfaf Focus God",
+      "description": "4+ hours of focused work in one day",
+      "earned_at": "2026-04-19T19:42:08.219805"
+    },
+    {
+      "id": "diversity_master",
+      "name": "\ud83c\udfa8 Diversity Master",
+      "description": "Logged 5+ different activity types",
+      "earned_at": "2026-04-19T19:42:08.283664"
+    },
+    {
+      "id": "comeback_kid",
+      "name": "\ud83c\udf1f Comeback Kid",
+      "description": "50% increase in activity after a low week",
+      "earned_at": "2026-04-19T19:42:08.299606"
+    },
+    {
+      "id": "focus_god",
+      "name": "\ud83c\udfaf Focus God",
+      "description": "4+ hours of focused work in one day",
+      "earned_at": "2026-04-19T19:59:54.654670"
+    },
+    {
+      "id": "diversity_master",
+      "name": "\ud83c\udfa8 Diversity Master",
+      "description": "Logged 5+ different activity types",
+      "earned_at": "2026-04-19T19:59:54.685448"
+    },
+    {
+      "id": "comeback_kid",
+      "name": "\ud83c\udf1f Comeback Kid",
+      "description": "50% increase in activity after a low week",
+      "earned_at": "2026-04-19T19:59:54.696739"
+    },
+    {
+      "id": "focus_god",
+      "name": "\ud83c\udfaf Focus God",
+      "description": "4+ hours of focused work in one day",
+      "earned_at": "2026-04-19T20:08:37.468513"
+    },
+    {
+      "id": "diversity_master",
+      "name": "\ud83c\udfa8 Diversity Master",
+      "description": "Logged 5+ different activity types",
+      "earned_at": "2026-04-19T20:08:37.545329"
+    },
+    {
+      "id": "comeback_kid",
+      "name": "\ud83c\udf1f Comeback Kid",
+      "description": "50% increase in activity after a low week",
+      "earned_at": "2026-04-19T20:08:37.560584"
+    },
+    {
+      "id": "focus_god",
+      "name": "\ud83c\udfaf Focus God",
+      "description": "4+ hours of focused work in one day",
+      "earned_at": "2026-04-19T20:21:59.431464"
+    },
+    {
+      "id": "diversity_master",
+      "name": "\ud83c\udfa8 Diversity Master",
+      "description": "Logged 5+ different activity types",
+      "earned_at": "2026-04-19T20:21:59.462226"
+    },
+    {
+      "id": "comeback_kid",
+      "name": "\ud83c\udf1f Comeback Kid",
+      "description": "50% increase in activity after a low week",
+      "earned_at": "2026-04-19T20:21:59.478700"
+    },
+    {
+      "id": "focus_god",
+      "name": "\ud83c\udfaf Focus God",
+      "description": "4+ hours of focused work in one day",
+      "earned_at": "2026-04-19T20:23:49.667952"
+    },
+    {
+      "id": "diversity_master",
+      "name": "\ud83c\udfa8 Diversity Master",
+      "description": "Logged 5+ different activity types",
+      "earned_at": "2026-04-19T20:23:49.698442"
+    },
+    {
+      "id": "comeback_kid",
+      "name": "\ud83c\udf1f Comeback Kid",
+      "description": "50% increase in activity after a low week",
+      "earned_at": "2026-04-19T20:23:49.715151"
     }
   ],
   "last_checked": null
